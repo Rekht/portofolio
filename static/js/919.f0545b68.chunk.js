@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkportofolio_restu=self.webpackChunkportofolio_restu||[]).push([[919],{919:(e,l,r)=>{r.r(l),r.d(l,{default:()=>s});r(43);var t=r(579);const s=e=>{let{about:l}=e;return(0,t.jsx)("div",{className:"bg-gray-900 rounded-xl p-8 w-full",children:(0,t.jsx)("p",{className:"text-lg text-gray-300 leading-relaxed",children:l.description})})}}}]);
+//# sourceMappingURL=919.f0545b68.chunk.js.map
